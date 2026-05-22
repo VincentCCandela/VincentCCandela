@@ -9,6 +9,6 @@ I'm a Computer Engineering student at Boston University passionate about low-lev
 **Tech Skillsets I'm comfortable with**
 - **Systems:** C, C++, CUDA, Verilog/FPGA
 - **General:** Python
-- **Other:** computer architecture, parallel programming, deep learning, general software algorithms
+- **Other:** operating systems, computer architecture, parallel programming, deep learning, general software algorithms
 
 **Outside of tech, I love making hyperpop music, mountain biking, skiing, going berry-picking**
