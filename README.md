@@ -1,6 +1,6 @@
 # I'm Vincent!
 
-I'm a Computer Engineering student at Boston University passionate about low-level kernel and gpu programming.
+I'm a Computer Engineering student at Boston University passionate about systems, kernel, and gpu programming.
 
 **Current Work**
 - FPGA implementation of machine learning models
