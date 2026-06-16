@@ -4,7 +4,7 @@ I'm a Computer Engineering student at Boston University passionate about systems
 
 **Current Work**
 - FPGA implementation of machine learning models
-- Integration (and modification) of the CARLA simulator for Linux and Quest OS for the Drako Motors DriveOS
+- Custom Modification of the CARLA simulator and integration with matlab Simulink model for Drako GTE engine
 
 **Tech Skillsets I'm comfortable with**
 - **Systems:** C, C++, CUDA, Verilog/FPGA
