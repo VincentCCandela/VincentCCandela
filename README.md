@@ -3,8 +3,8 @@
 I'm a Computer Engineering student at Boston University passionate about systems, kernel, and gpu programming.
 
 **Current Work**
-- FPGA implementation of machine learning models
-- Custom Modification of the CARLA simulator and integration with matlab Simulink model for Drako GTE engine
+- FPGA implementation of numeric and machine learning models
+- Custom Modification of the CARLA simulator and integration with matlab Simulink model for the Drako GTE electric vehicle
 
 **Tech Skillsets I'm comfortable with**
 - **Systems:** C, C++, CUDA, Verilog/FPGA
